@@ -3,20 +3,12 @@
   <img src="https://github.com/DevWilliamCN/DevWilliamCN/blob/main/Miimg.png" width="100%" alt="Banner William Cubero" />
 </p>
 
-<h1 align="center">
-  ¡Hola! Soy <span style="color:#FF6F91;">William Cubero</span> 👨‍💻
-</h1>
 
-<p align="center">
-  <b>Desarrollador enfocado en la construcción de soluciones con JavaScript, Python, TypeScript, SQL, Angular, Firebase y MariaDB.</b><br/>
-  Apasionado por la inteligencia artificial, interfaces limpias, seguridad y rendimiento.
-</p>
 
 ---
 
 ### 📈 GitHub Metrics
-<p align="center">
-![GitHub Metrics](https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/main/metrics.svg)</p>
+![GitHub Metrics](https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/main/metrics.svg)
 
 ---
 
