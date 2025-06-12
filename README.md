@@ -35,23 +35,6 @@
 
 ---
 
-### 🛒 Proyecto empresarial: YaVaPa’llá
-<p align="center">
-  <a href="https://yavapalla.com" target="_blank">
-    <img src="https://github.com/DevWilliamCN/DevWilliamCN/blob/main/img1.png" width="300px" />
-    <img src="https://github.com/DevWilliamCN/DevWilliamCN/blob/main/img2.png" width="300px" />
-    <img src="https://github.com/DevWilliamCN/DevWilliamCN/blob/main/img3.png" width="300px" />
-  </a>
-</p>
-
-<p align="center">
-  Plataforma web diseñada para ofrecer una experiencia de compra fluida, visualmente atractiva y moderna para una tienda especializada en productos personalizados y artesanales.
-</p>
-
----
-
-### 📫 Contacto
-
 ### 🛒 Proyecto empresarial: YaVaPa’llá / yavapalla.com
 
 <p align="center">
@@ -66,6 +49,25 @@
   Plataforma web moderna, visualmente atractiva, enfocada en brindar una experiencia intuitiva de compra para productos personalizados y artesanales.
 </p>
 
+
+---
+
+### 📫 Contacto
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍 Costa Rica-blue?style=flat-square" />  
+  <br/>
+  <a href="mailto:w.cubero800@gmail.com">
+    <img src="https://img.shields.io/badge/✉️ w.cubero800@gmail.com-gray?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <br/>
+  <a href="https://www.linkedin.com/in/william-cubero-navarro-75880727a/">
+    <img src="https://img.shields.io/badge/LinkedIn-William_Cubero-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DevWilliamCN">
+    <img src="https://img.shields.io/badge/GitHub-DevWilliamCN-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
