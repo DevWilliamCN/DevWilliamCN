@@ -1,6 +1,6 @@
 <!-- Banner centrado -->
 <p align="center">
-  <img src="https://github.com/DevWilliamCN/DevWilliamCN/blob/main/Miimg.png" width="100%" alt="Banner William Cubero" />
+  <img src="https://github.com/DevWilliamCN/DevWilliamCN/blob/main/Miimg.png" width="75%" alt="Banner William Cubero" />
 </p>
 
 
@@ -23,7 +23,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/main/metrics.svg" width="95%"/>
+  <img src="https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/main/metrics.svg" width="75%"/>
 </p>
 
 ---
