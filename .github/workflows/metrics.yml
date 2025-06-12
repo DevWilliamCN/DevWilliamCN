@@ -17,6 +17,6 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: commit
-          committer_branch: generated
+          committer_branch: main
           base: header, activity, community, repositories, metadata
           config_timezone: America/Costa_Rica
