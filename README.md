@@ -6,9 +6,7 @@
 ---
 
 ### 📈 GitHub Metrics
-<p align="center">
-![GitHub Metrics](https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/main/metrics.svg)</p>
-
+![GitHub Metrics](https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/main/metrics.svg)
 ---
 
 ### 🧠 Tecnologías que domino
