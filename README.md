@@ -1,14 +1,14 @@
 <!-- Encabezado centrado moderno con fondo personalizado -->
 <p align="center">
-  <img src="https://github.com/DevWilliamCN/DevWilliamCN/blob/main/img.png" width="100%" alt="Banner William Cubero Navarro" />
+  <img src="https://github.com/DevWilliamCN/DevWilliamCN/blob/main/Miimg.png" width="100%" alt="Banner William Cubero" />
 </p>
 
 <h1 align="center">
-  ¡Hola! Soy <span style="color:#FF6F91;">William Cubero Navarro</span> 👨‍💻
+  ¡Hola! Soy <span style="color:#FF6F91;">William Cubero</span> 👨‍💻
 </h1>
 
 <p align="center">
-  <b>Desarrollador enfocado en la construcción de soluciones con JavaScript, Python y TypeScript.</b><br/>
+  <b>Desarrollador enfocado en la construcción de soluciones con JavaScript, Python, TypeScript, SQL, Angular, Firebase y MariaDB.</b><br/>
   Apasionado por la inteligencia artificial, interfaces limpias, seguridad y rendimiento.
 </p>
 
@@ -23,8 +23,8 @@
 
 ### 🧠 Tecnologías que domino
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,react,firebase,git,linux,github,vscode,html,css" />
-</p>
+
+![GitHub Metrics](https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/main/metrics.svg)</p>
 
 ---
 
