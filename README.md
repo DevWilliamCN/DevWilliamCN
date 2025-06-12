@@ -6,7 +6,10 @@
 ---
 
 ### 📈 GitHub Metrics
-![GitHub Metrics](https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/main/metrics.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/main/metrics.svg" alt="GitHub Metrics" width="95%"/>
+</p>
+
 ---
 
 ### 🧠 Tecnologías que domino
@@ -29,6 +32,21 @@
 
 - 🧠 [**Detector de fraude**](https://github.com/DevWilliamCN/detector-fraude-uso-gratis)  
   Proyecto de IA que clasifica transacciones como legítimas o fraudulentas con ayuda de Machine Learning.
+
+---
+
+### 🛒 Proyecto empresarial: YaVaPa’llá
+<p align="center">
+  <a href="https://yavapalla.com" target="_blank">
+    <img src="https://github.com/DevWilliamCN/DevWilliamCN/blob/main/img1.png" width="300px" />
+    <img src="https://github.com/DevWilliamCN/DevWilliamCN/blob/main/img2.png" width="300px" />
+    <img src="https://github.com/DevWilliamCN/DevWilliamCN/blob/main/img3.png" width="300px" />
+  </a>
+</p>
+
+<p align="center">
+  Plataforma web diseñada para ofrecer una experiencia de compra fluida, visualmente atractiva y moderna para una tienda especializada en productos personalizados y artesanales.
+</p>
 
 ---
 
