@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/main/img.png" alt="William Cubero Navarro Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/main/img.png" alt="William Cubero Navarro Banner" width="500">
 </p>
+
 
 
 # 👋 ¡Hola! Soy William Cubero Navarro
