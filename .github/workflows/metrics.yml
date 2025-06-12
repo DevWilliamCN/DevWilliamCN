@@ -1,7 +1,10 @@
 name: Metrics
+
 on:
-  schedule: [{cron: "0 * * * *"}]  # se actualiza cada hora
-  push: {branches: ["main"]}
+  schedule:
+    - cron: "0 * * * *"  # se actualiza cada hora
+  push:
+    branches: ["main"]
   workflow_dispatch:
 
 jobs:
@@ -13,5 +16,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          output_action: commit
+          committer_branch: generated
           base: header, activity, community, repositories, metadata
           config_timezone: America/Costa_Rica
