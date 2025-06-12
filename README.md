@@ -1,37 +1,53 @@
-<h1 align="center" style="font-family: 'Comic Sans MS', cursive; color: #FF6F91;">
-  👋 ¡Hola! Soy William Cubero Navarro
+<!-- Encabezado centrado moderno con fondo personalizado -->
+<p align="center">
+  <img src="https://github.com/DevWilliamCN/DevWilliamCN/blob/main/img.png" width="100%" alt="Banner William Cubero Navarro" />
+</p>
+
+<h1 align="center">
+  ¡Hola! Soy <span style="color:#FF6F91;">William Cubero Navarro</span> 👨‍💻
 </h1>
 
-<p align="center" style="color: #9370DB; font-size: 18px;">
-  Desarrollador apasionado por la programación, la inteligencia artificial y el desarrollo web.
+<p align="center">
+  <b>Desarrollador enfocado en la construcción de soluciones con JavaScript, Python y TypeScript.</b><br/>
+  Apasionado por la inteligencia artificial, interfaces limpias, seguridad y rendimiento.
 </p>
 
 ---
 
-## 📊 GitHub Metrics
-
+### 📈 GitHub Metrics
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/main/metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/generated/metrics.svg" alt="GitHub Metrics" width="95%"/>
 </p>
 
 ---
 
-## 🚀 Tecnologías y herramientas
-
+### 🧠 Tecnologías que domino
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,firebase,git,linux,github,vscode,html,css" />
 </p>
 
 ---
 
-## 📫 Contacto
+### 💼 Proyectos destacados
+- 🚀 [**Análisis de ventas con IA**](https://github.com/DevWilliamCN/analisis-ventas-ia) – Dashboard de predicción con regresión lineal y visualización avanzada (Streamlit + Python)
+- 📱 [**App Pokémon API (Android)**](https://github.com/DevWilliamCN/Proyecto_Movil_Android_Api_Pokemon) – Aplicación móvil interactiva con Java
+- 🧠 [**Detector de fraude**](https://github.com/DevWilliamCN/detector-fraude-uso-gratis) – Proyecto de IA para clasificación de transacciones
+
+---
+
+### 📫 Contacto y redes
+<p align="center">
+  📍 Costa Rica  
+  <br />
+  ✉️ <a href="mailto:w.cubero800@gmail.com">w.cubero800@gmail.com</a>  
+  <br />
+  🔗 <a href="https://www.linkedin.com/in/william-cubero-navarro-75880727a/">LinkedIn</a> • <a href="https://github.com/DevWilliamCN">GitHub</a>
+</p>
+
+---
+
+### 🔥 Frase personal
 
 <p align="center">
-  📍 Costa Rica &nbsp;|&nbsp;
-  ✉️ <a href="mailto:w.cubero800@gmail.com">w.cubero800@gmail.com</a> &nbsp;|&nbsp;
-  💼 <a href="https://www.linkedin.com/in/william-cubero-navarro-75880727a/">LinkedIn</a>
+  <i>"La tecnología no es magia, pero con pasión y propósito... se acerca bastante."</i>
 </p>
