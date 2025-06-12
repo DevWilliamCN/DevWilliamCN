@@ -16,7 +16,6 @@
 
 ### 📈 GitHub Metrics
 <p align="center">
-
 ![GitHub Metrics](https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/main/metrics.svg)</p>
 
 ---
@@ -29,9 +28,18 @@
 ---
 
 ### 💼 Proyectos destacados
-- 🚀 [**Análisis de ventas con IA**](https://github.com/DevWilliamCN/analisis-ventas-ia) – Dashboard de predicción con regresión lineal y visualización avanzada (Streamlit + Python)
-- 📱 [**App Pokémon API (Android)**](https://github.com/DevWilliamCN/Proyecto_Movil_Android_Api_Pokemon) – Aplicación móvil interactiva con Java
-- 🧠 [**Detector de fraude**](https://github.com/DevWilliamCN/detector-fraude-uso-gratis) – Proyecto de IA para clasificación de transacciones
+
+- 🚀 [**Análisis de ventas con IA**](https://github.com/DevWilliamCN/analisis-ventas-ia)  
+  Aplicación desarrollada con **Streamlit** y **Python** que permite cargar archivos, visualizar estadísticas y generar predicciones usando modelos de regresión lineal.  
+
+- 📊 [**Gestión de solicitudes APEX**](https://github.com/DevWilliamCN/gestion-solicitudes-apex)  
+  Plataforma web construida con **Oracle APEX** para gestionar solicitudes de forma eficiente. Exportable, reutilizable y lista para ambientes empresariales.  
+
+- 📱 [**App Pokémon API (Android)**](https://github.com/DevWilliamCN/Proyecto_Movil_Android_Api_Pokemon)  
+  Aplicación móvil en Java que consume la API de Pokémon para mostrar datos interactivos con interfaz dinámica.  
+
+- 🧠 [**Detector de fraude**](https://github.com/DevWilliamCN/detector-fraude-uso-gratis)  
+  Proyecto de IA que clasifica transacciones como legítimas o fraudulentas con ayuda de Machine Learning.
 
 ---
 
