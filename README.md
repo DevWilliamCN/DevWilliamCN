@@ -16,15 +16,15 @@
 
 ### 📈 GitHub Metrics
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/generated/metrics.svg" alt="GitHub Metrics" width="95%"/>
-</p>
+
+![GitHub Metrics](https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/main/metrics.svg)</p>
 
 ---
 
 ### 🧠 Tecnologías que domino
 <p align="center">
-
-![GitHub Metrics](https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/main/metrics.svg)</p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,angular,firebase,mysql,mariadb,git,github,vscode,linux,html,css" />
+</p>
 
 ---
 
