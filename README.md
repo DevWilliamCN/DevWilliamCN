@@ -7,8 +7,7 @@
 
 ### 📈 GitHub Metrics
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/generated/metrics.svg" alt="GitHub Metrics" width="65%"/>
-</p>
+![GitHub Metrics](https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/main/metrics.svg)</p>
 
 ---
 
