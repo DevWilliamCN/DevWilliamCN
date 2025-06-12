@@ -52,20 +52,22 @@
 
 ---
 
-### 📫 Contacto
+### 📬 Contacto
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍 Costa Rica-blue?style=flat-square" />  
+  <a href="https://www.google.com/maps/place/Costa+Rica" target="_blank">
+    <img src="https://img.shields.io/badge/📍 Costa Rica-blue?style=for-the-badge" />
+  </a>
   <br/>
   <a href="mailto:w.cubero800@gmail.com">
-    <img src="https://img.shields.io/badge/✉️ w.cubero800@gmail.com-gray?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-w.cubero800@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br/>
   <a href="https://www.linkedin.com/in/william-cubero-navarro-75880727a/">
-    <img src="https://img.shields.io/badge/LinkedIn-William_Cubero-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-William%20Cubero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/DevWilliamCN">
-    <img src="https://img.shields.io/badge/GitHub-DevWilliamCN-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-DevWilliamCN-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
