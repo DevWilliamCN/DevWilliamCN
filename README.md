@@ -12,7 +12,7 @@
 
 ## 📊 GitHub Metrics
 
-![GitHub Metrics](https://github.com/DevWilliamCN/DevWilliamCN/blob/generated/metrics.svg)
+![GitHub Metrics](https://raw.githubusercontent.com/DevWilliamCN/DevWilliamCN/main/metrics.svg)
 
 
 ---
