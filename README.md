@@ -21,6 +21,10 @@
 
 ### 💼 Proyectos destacados
 
+- 🚗 [**API de Automóviles**](https://github.com/DevWilliamCN/Api_Automoviles)  
+  API REST para consultar, registrar y modificar información de automóviles. Desarrollada con Node.js y desplegada en Cloudflare Workers.  
+  🔗 [Ver demo](https://api-william.datapiwilliam.workers.dev) | [Documentación](https://api-william.datapiwilliam.workers.dev/api/docs)
+
 - 🚀 [**Análisis de ventas con IA**](https://github.com/DevWilliamCN/analisis-ventas-ia)  
   Aplicación desarrollada con **Streamlit** y **Python** que permite cargar archivos, visualizar estadísticas y generar predicciones usando modelos de regresión lineal.  
 
@@ -49,7 +53,6 @@
   Plataforma web moderna, visualmente atractiva, enfocada en brindar una experiencia intuitiva de compra para productos personalizados y artesanales.
 </p>
 
-
 ---
 
 <h3 align="center">💬 Contacto</h3>
@@ -74,7 +77,6 @@
     <img src="https://img.shields.io/badge/GitHub-DevWilliamCN-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
 
 ---
 
