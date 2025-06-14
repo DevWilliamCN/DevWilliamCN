@@ -25,6 +25,10 @@
   API REST para consultar, registrar y modificar información de automóviles. Desarrollada con Node.js y desplegada en Cloudflare Workers.  
   🔗 [Ver demo](https://api-william.datapiwilliam.workers.dev) | [Documentación](https://api-william.datapiwilliam.workers.dev/api/docs)
 
+  - 🧠 [**Asistente inteligente de autos**](https://github.com/DevWilliamCN/Web_Consumiendo_Api_Autos)  
+  Web app interactiva creada con **Streamlit** y **OpenRouter.ai** que recomienda autos con IA a partir de frases naturales como “Quiero un carro barato” o “Show me a good car”. Consume una API propia en tiempo real y permite exportar resultados a Excel.  
+  🔗 [Probar app](https://ia-autos-costarica.streamlit.app)
+
 - 🚀 [**Análisis de ventas con IA**](https://github.com/DevWilliamCN/analisis-ventas-ia)  
   Aplicación desarrollada con **Streamlit** y **Python** que permite cargar archivos, visualizar estadísticas y generar predicciones usando modelos de regresión lineal.  
 
