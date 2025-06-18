@@ -41,6 +41,10 @@
 - 🧠 [**Detector de fraude**](https://github.com/DevWilliamCN/detector-fraude-uso-gratis)  
   Proyecto de IA que clasifica transacciones como legítimas o fraudulentas con ayuda de Machine Learning.
 
+- 🏡 [**California Housing Price Prediction**](https://github.com/DevWilliamCN/california-housing-price-prediction)  
+  Proyecto completo de análisis y Machine Learning con regresión lineal para predecir precios de viviendas en California. Incluye visualizaciones, entrenamiento, evaluación y métricas detalladas.  
+  🔗 [Ver repositorio](https://github.com/DevWilliamCN/california-housing-price-prediction)
+
 ---
 
 ### 🛒 Proyecto empresarial: YaVaPa’llá / yavapalla.com
