@@ -23,11 +23,9 @@
 
 - 🚗 [**API de Automóviles**](https://github.com/DevWilliamCN/Api_Automoviles)  
   API REST para consultar, registrar y modificar información de automóviles. Desarrollada con Node.js y desplegada en Cloudflare Workers.  
-  🔗 [Ver demo](https://api-william.datapiwilliam.workers.dev) | [Documentación](https://api-william.datapiwilliam.workers.dev/api/docs)
 
 - 🧠 [**Asistente inteligente de autos**](https://github.com/DevWilliamCN/Web_Consumiendo_Api_Autos)  
   Web app interactiva creada con **Streamlit** y **OpenRouter.ai** que recomienda autos con IA a partir de frases naturales como “Quiero un carro barato” o “Show me a good car”. Consume una API propia en tiempo real y permite exportar resultados a Excel.  
-  🔗 [Probar app](https://ia-autos-costarica.streamlit.app)
 
 - 🚀 [**Análisis de ventas con IA**](https://github.com/DevWilliamCN/analisis-ventas-ia)  
   Aplicación desarrollada con **Streamlit** y **Python** que permite cargar archivos, visualizar estadísticas y generar predicciones usando modelos de regresión lineal.  
@@ -43,16 +41,9 @@
 
 - 🏡 [**California Housing Price Prediction**](https://github.com/DevWilliamCN/california-housing-price-prediction)  
   Proyecto completo de análisis y Machine Learning con regresión lineal para predecir precios de viviendas en California. Incluye visualizaciones, entrenamiento, evaluación y métricas detalladas.  
-  🔗 [Ver repositorio](https://github.com/DevWilliamCN/california-housing-price-prediction)
-
+ 
 - 📦 [**Análisis de Ventas con SQL Server y Python**](https://github.com/DevWilliamCN/Analisis-de-Ventas-con-SQL-Server-y-Python)  
-  Proyecto completo de automatización y visualización de datos de ventas utilizando **SQL Server**, **Python**, y **Tkinter**.  
-  Incluye:
-  - Clasificador automático de productos por volumen de ventas (“🔥 Más vendido”, “👀 Popular”)
-  - Simulación de ventas aleatorias en tiempo real
-  - Conexión directa a base de datos mediante `pyodbc`
-  - Dashboards visuales con `matplotlib` y `seaborn`  
-  🎯 Ideal para escenarios de análisis comercial, pruebas de rendimiento y generación de reportes dinámicos.
+  Proyecto completo de automatización y visualización de datos de ventas utilizando **SQL Server**, **Python**, y **Tkinter**Clasificador automático de productos por volumen de ventas (“ Más vendido”, “Popular”,Simulación de ventas aleatorias en tiempo real, Conexión directa a base de datos mediante `pyodbc`, Dashboards visuales con `matplotlib` y `seaborn`. Ideal para escenarios de análisis comercial, pruebas de rendimiento y generación de reportes dinámicos.
 
 ---
 
